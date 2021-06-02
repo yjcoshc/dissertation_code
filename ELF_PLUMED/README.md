@@ -1,0 +1,1 @@
+The code has been merged into the PLUMED official distribution under the module `DRR`. See [the source code](https://github.com/plumed/plumed2/tree/master/src/drr) and [the PLUMED documentation](https://www.plumed.org/doc-master/user-doc/html/_d_r_r.html).
